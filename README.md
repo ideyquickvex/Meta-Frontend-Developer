@@ -110,27 +110,6 @@ The final course in this program will help prepare you for the unique aspects of
 
 You’ll gain strategic insights and tips for successful interviewing. And, you’ll have the opportunity to openly discuss the emotional components of the interview process with other learners taking this course.
 
-## Development
-Easily set up a local development environment!
-
-1. Clone the repo
-    ```git clone https://github.com/aa3281/Meta-Front-End-Developer-Professional-Certificate.git```
-2. Install the NPM packages 
-    ```npm install```
-
-## Feedback and Contributing
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. All contributions are welcome!
-
-If you have a suggestion that would make my homework better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
-
-1. Fork it (<https://github.com/ideyquickvex/Meta-Front-End-Developer-Professional-Certificate/fork>)
-2. Create your feature branch (`git checkout -b feature/amazingFeature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazingFeature`)
-5. Create a new Pull Request
-
-## Acknowledgements
-- [Meta Staff](https://www.coursera.org/instructor/~30575670)
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
