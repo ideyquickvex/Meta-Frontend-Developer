@@ -1,3 +1,4 @@
+//I give an example of a repetitive tasks and then try to replicate it using loops
 console.log(1)
 console.log(2)
 console.log(3)
